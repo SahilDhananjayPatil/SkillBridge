@@ -5,12 +5,12 @@ SkillBridge is a Java-based job portal web application designed to streamline th
 Built using JSP/Servlets, MySQL, and Apache Tomcat, SkillBridge offers a clean interface for users to register, search, and apply for jobs, while employers can post and manage job listings with ease.
 
 Features:
-
 User & Admin Authentication
 Job Posting & Application Module
 Location & Role-Based Job Search
 Profile Management for Job Seekers and Recruiters
 Secure Login with Sessions
+
 Tech Stack: Frontend: HTML, CSS, JSP Backend: Java (Servlets) Database: MySQL Server: Apache Tomcat
 
 Setup Instructions:
